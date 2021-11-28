@@ -1,2 +1,2 @@
 # docker-service-example
-Learnong docker and go lang
+Learn docker and go lang
